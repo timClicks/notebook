@@ -13,3 +13,7 @@ Which statement best describes the phrase "unwinding panic"?
 What is the responsibilities of the owner of a value?	
 
 > Drop the value at the end of its scope.
+
+The smart pointers Rc and Arc rely on a concept called "interior mutability" This allows values marked as immutable to change their state. Which statement best describes why interior mutability is valid?	
+
+> Rust's let keyword primarily relates to aliasing, rather than immutability. 
