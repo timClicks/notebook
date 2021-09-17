@@ -1,0 +1,1 @@
+- use [prospector](https://github.com/skeeto/hash-prospector) to mine hash functions! blog post https://nullprogram.com/blog/2018/07/31/
