@@ -2,7 +2,7 @@
 
 use [prospector](https://github.com/skeeto/hash-prospector) to mine hash functions! blog post https://nullprogram.com/blog/2018/07/31/
 
-The best that I can get is this
+The best that I can get is this:
 
 ```console
 $ ./prospector -8 -p xorr,mul,xorr,mul,xorr
@@ -21,3 +21,5 @@ hash(uint64_t x)
 }
 ```
 
+- http://pod.tst.eu/http://cvs.schmorp.de/libecb/ecb.pod#BIT_MIXING_HASHING
+- https://lists.sr.ht/~skeeto/public-inbox/%3Cda2c4c2dc0000b054e014636be12326a1a532ec5.camel%40opteya.com%3E
