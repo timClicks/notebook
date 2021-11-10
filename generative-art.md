@@ -3,6 +3,7 @@
 ## Tools
 
 - https://rasterize.live/ - convert images into pixelated replicas (& SVGs)
+- https://doodad.dev/dither-me-this/ - dither images in the browser
 
 ## Topics
 
