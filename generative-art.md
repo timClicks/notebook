@@ -25,3 +25,10 @@
 `jupyterlite` brings interactives data science notebooks completely in the browser.
 
 https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa
+
+### Slime mould simulations
+
+- Seb Lague has open source code https://github.com/SebLague/Slime-Simulation, see the incredible video https://www.youtube.com/watch?v=X-iSQQgOd1A
+- Sage Jenson has some wonderful creations https://sagejenson.com/particle-studies-2016
+
+
