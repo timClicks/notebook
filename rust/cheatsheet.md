@@ -35,3 +35,11 @@ $ RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target x86_6
 ...
     Finished release [optimized] target(s) in 0.00s
 ```
+
+# Raw pointers
+
+## Deallocating a raw pointer
+
+If you need to do the equivalent of `free()`, then there's a slight trick available to you. Instead of calling `free()` directly, you can use `Box::from_raw()` that will be freed at the end of its scope. 
+
+See also https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/
