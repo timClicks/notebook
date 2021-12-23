@@ -42,4 +42,20 @@ $ RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target x86_6
 
 If you need to do the equivalent of `free()`, then there's a slight trick available to you. Instead of calling `free()` directly, you can use `Box::from_raw()` that will be freed at the end of its scope. 
 
+I guess if you wanted to, you could simply call `free()` yourself:
+
+```rust
+extern crate libc;
+
+use std::mem;
+
+unsafe {
+    let my_num: *mut i32 = libc::malloc(mem::size_of::<i32>()) as *mut i32;
+    if my_num.is_null() {
+        panic!("failed to allocate memory");
+    }
+    libc::free(my_num as *mut libc::c_void);
+}
+```
+
 See also https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/
