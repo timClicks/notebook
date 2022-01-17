@@ -38,6 +38,13 @@ $ RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target x86_6
 
 # Raw pointers
 
+## Creating a C `* char` string
+
+I think this is the least ugly way to create a C-compatible string in Rust. It's also possible to create the same via the `std::ffi` module. 
+
+```rust
+b"some text\0".as_ptr() as *const i8
+```
 ## Deallocating a raw pointer
 
 If you need to do the equivalent of `free()`, then there's a slight trick available to you. Instead of calling `free()` directly, you can use `Box::from_raw()` that will be freed at the end of its scope. 
