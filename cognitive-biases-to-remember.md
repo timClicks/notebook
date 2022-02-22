@@ -1,3 +1,12 @@
+**Baader-Meinhof phenomenon**
+
+We see something repeatedly once our brain thinks that it's important.
+
+From <https://science.howstuffworks.com/life/inside-the-mind/human-brain/baader-meinhof-phenomenon.htm>
+
+> “It all started in the comments section of a newspaper called the Minnesota St. Pauls Pioneer Press. During the 90s, one commenter talked about the Baader-Meinhof group, which was a West German terrorist organization, and within hours, he saw another reference to the group 70 years after the organization was disbanded. Hence, the term was coined as the Baader-Meinhof phenomenon.”
+
+
 **Dunning-Kruger** 
 
 Stupid people don't know that they're stupid.
