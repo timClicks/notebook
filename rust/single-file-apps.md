@@ -22,7 +22,7 @@ It would also enable programming-in-the-small. Enabling single-file applications
 friction for people who want to prototype in Rust.
 
 What do you think? Feel free to use [Twitter](https://twitter.com/timClicks) to discuss the idea.
-Is this worth creating a bona fide RFC[1] for?
+Is this worth creating a bona fide RFC<sup><a href="#footnote-1>">1</a></sup> for?
 
 <!-- Rust doesn't have random number generation within the standard library. That makes building
 trivial games difficult.
@@ -36,6 +36,7 @@ with Rust for small things.
 
 ---
 
-1. As an aside, isn't it strange that an RFC ("Request for Comments") isn't used to request comments?
+1. <a id="footnote-1" name="footnote-1"> As an aside, isn't it strange that an RFC ("Request for Comments") isn't used to request comments?
 
-1. <a id="footnote-1" name="footnote-1"></a>Yes, and also `#[no_core]`, I supposee.
+<!-- 1. </a>Yes, and also `#[no_core]`, I supposee.
+ -->
