@@ -1,4 +1,4 @@
-Let's enable single `app.rs` file would be able to declare its own dependencies.
+Let's enable a single `app.rs` file to declare its own dependencies.
 
 As a starting point for discussion, what about extending string literals with a new type that refers to dependencies?
 
