@@ -12,9 +12,24 @@ is **hard to learn** within a  competitive  environment with extremely strong an
 **entrenched incumbents**?
 
 
+## design factors
+
+- designed in conjunction with real experience in the language (Servo); early Erlang/OTP was similar
+- nothing completely novel in Rust (everything that Rust has was already verified by research)
+- big audacious goal&mdash;memory safety without garbage collection&mdash;this is a  controversal point
+
+
+## developer experience
+
+- impossible to use its assignment operator (`=`) inside of a conditional expression
+- pattern matching
+- documentation/advocacy (Steve Klabnik, Carol Nichols)
+- early industry buy-in (Dropbox, many others); developed in the Bay Area where are are many influential developers/companies
+- community
+
 ## early factors
 
-- designed in conjunction with real experience in the language (Servo)
+- humble creator (Graydon Hoare), who yielded on a few key areas (actors) to create something that's focused on systems
 
 ## external factors
 
