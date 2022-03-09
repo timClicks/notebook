@@ -87,4 +87,6 @@ To an assembly programmer, Rust's lifetimes are understood as a guarantee that r
 
 - underdog mentality (Mozilla vs Google)
 - (largely) industry neutral
-- 
+- incubated with multi-year financial support (Mozilla)
+
+  
