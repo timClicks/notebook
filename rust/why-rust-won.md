@@ -14,6 +14,8 @@ is **hard to learn** within a  competitive  environment with extremely strong an
 
 ## solves some really annoying problems
 
+Build systems
+
 Build systems should not be as complex as the systems that they're building.
 C++ code bases are difficult. `cargo` makes building pure Rust projects trivial
 and hybrid projects easy.
@@ -26,13 +28,60 @@ Other ways this shines through:
 - opinionated formatter (inspired by `go fmt`, but slightly weaker). this came later, but early enough to become heavily adopted
 
 
-## it follow the trends
+## unapologetic about its preferences
 
-Functional programming has been on the ascendency since ~2005. Scala,
+Rust values control and precision. That provides a cognitive burden on people who are learning
+the language. 
 
-Objects are less fashionable.
 
-Why? Objects imply hidden mutable state. Multiple inheritance also causes problems in C++.
+Lesson: Being difficult to learn is less useful for a language that is solving a genuine problem for its target market. (Other examples: [Futhark](https://futhark-lang.org/) (GPGPG) )
+
+
+## it followed the trends
+
+Functional programming has been on the ascendency since ~2005.
+
+- In languages: Scala, Clojure (immutable datastructures), Erlang (now Elixir)
+- In data processing: MapReduce paradigm, NoSQL more generally
+- In libraries: underscore.js, ...
+
+Unlike those languages, it couldn't use a runtime such as the JVM or BEAM. Given the intended use case (write a new web browser for multi-core)
+
+Objects are less fashionable. Why? Objects imply hidden mutable state. Multiple inheritance also causes problems in C++. Typically 
+
+Personal anecdote: Python's community norms changed greatly from 2005 to 2015. List/dict comprehensions, data classes, `lambda` became acceptable, methods that processed iterators became lazy (no more `.izip()`, `.imap()`).
+
+> ### aside: data-oriented programming
+> 
+> We're likely to see a 
+
+**lesson:** follow the trends
+
+**lesson:** Rust will fall out of favour in time
+
+
+## luck
+
+ML heritage: ("Rust is a programming language where teams of Haskell and Java programmers can get along.") Lots of Rust is derived from its intial OCaml heritage. Pattern matching etc may have been a different language if its starting point was different.
+
+LLVM: LLVM has enabled a new tranche of excellent programming languages (Julia, Swift, ...). It has dramatically reduced the cost of developing an industrial strength compiler.
+
+
+## small (initial) target market
+
+Rust was written to serve the needs of the team that was writing Rust. 
+"We need a language that be used to write Servo. Firefox is too buggy, 
+it's impossible to fix and we will be eaten alive by Chrome." (not quite an accurate quote)
+
+
+
+## suited the needs of its target market
+
+The C++ ("systems programming") crowd needed some things:
+
+ - memory safety
+ - full control over data layout (no GC)
+ - fearless concurrency
 
 
 ## design factors
@@ -88,5 +137,15 @@ To an assembly programmer, Rust's lifetimes are understood as a guarantee that r
 - underdog mentality (Mozilla vs Google)
 - (largely) industry neutral
 - incubated with multi-year financial support (Mozilla)
+  
+  
+## rust gave itself time to mature
+  
+When Rust was publicly announced in ~2012, the language looked very different.
+It was also a much bigger langauge. It contained non-nullable pointer types (in the language) a garbage.
+  
+Generally speaking, Rust has a very slow pace of feature development:
+  
+  
 
   
