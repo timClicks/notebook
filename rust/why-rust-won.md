@@ -12,6 +12,29 @@ is **hard to learn** within a  competitive  environment with extremely strong an
 **entrenched incumbents**?
 
 
+## solves some really annoying problems
+
+Build systems should not be as complex as the systems that they're building.
+C++ code bases are difficult. `cargo` makes building pure Rust projects trivial
+and hybrid projects easy.
+
+Other ways this shines through:
+
+- the compiler knows how to produce a test binary. Functions can be annotated with `[test]`, and they'll be run. If the function panics, the test is marked as a failure.  
+- Markdown inline comments
+- HTML documentation (that has direct links to the source code)
+- opinionated formatter (inspired by `go fmt`, but slightly weaker). this came later, but early enough to become heavily adopted
+
+
+## it follow the trends
+
+Functional programming has been on the ascendency since ~2005. Scala,
+
+Objects are less fashionable.
+
+Why? Objects imply hidden mutable state. Multiple inheritance also causes problems in C++.
+
+
 ## design factors
 
 - rust is an amalgam of good ideas
