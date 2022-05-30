@@ -9,9 +9,17 @@ Contributor to the Rustacean Station podcast
 - https://rustacean-station.org/episode/071-twir-442/
 - https://rustacean-station.org/episode/069-twir-441/
 
+Podcast interviews
+
+- [Functional Futures: Live-Coding Rust with Tim McNamara](https://serokell.io/blog/live-coding-rust-with-tim-mcnamara)
+
+Someone posted an article that I wrote to HN and [it got to the first page](https://news.ycombinator.com/item?id=31071690).
+
 ## 2021
 
-Published [_Rust in Action_](https://www.manning.com/books/rust-in-action).
+A tweet of mine is picked up by [The New Stack](https://thenewstack.io/this-week-in-programming-github-fights-open-source-dmca-disputes/).
+
+Published [_Rust in Action_](https://www.manning.com/books/rust-in-action). (It's also available [in Japanese](https://www.shoeisha.co.jp/book/detail/9784798160221))
 
 Judge of the New Zealand Open Source Awards.
 
@@ -30,7 +38,11 @@ Became a LinkedIn Learning Instructor
 
 - [Rust Code Challenges](https://www.linkedin.com/learning/rust-code-challenges)
 
-Published by the ACM
+Appeared in the [Google Knowledge Graph](https://g.co/kgs/mrdLBn)
+
+Cited by the IndieWeb community on [decentralization on the web](https://indieweb.org/wiki/index.php?title=decentralized&oldid=77956).
+
+Published by the ACM, "[The Benefits of Rust](https://cacm.acm.org/opinion/interviews/257574-the-benefits-of-rust/fulltext)".
 
 Contributed a piece to [the Spinoff](https://thespinoff.co.nz/politics/02-09-2021/live-updates-september-2-nervous-wait-for-northland-ahead-of-alert-level-three-shift).
 
@@ -48,17 +60,25 @@ Contributed a piece to [the Spinoff](https://thespinoff.co.nz/politics/02-09-202
 
 Talks
 
+- ["An Evening with TimClicks"](https://skillsmatter.com/skillscasts/17234-evening-timclicks), Rust London/Skills Matter
 - "How to learn Rust" Rust Linz, June 2021
 - "What is Rust and why is it interesting?" WOSSAT, Apr 2021
 - "Understanding Rust lifetimes: a visual introduction" Kerala Rustaceans, Mar 2021
 
-
-Podcast interviews
+Interviews
 
 - [Building with Rust](https://anchor.fm/building-with-rust/episodes/Tim-McNamara-on-Rust-in-Action-eugoal)
 - [Software Engineering Radio](#todo)
+- [Always Bet on Rust](https://blog.abor.dev/p/timclicks), "Routes to Discovering Rust"
 
 ## 2020
+
+Published on the Ubuntu blog
+
+- [ DevOps tools in 2020: Why consider Juju? ](https://ubuntu.com/blog/devops-tools-in-2020-why-consider-juju)
+- [ Infrastructure-as-Code mistakes and how to avoid them ](https://ubuntu.com/blog/infrastructure-as-code-mistakes)
+- [Data Ops at petabyte scale](https://ubuntu.com/blog/data-ops-at-petabyte-scale)
+- [Web application development with Juju charms: an interview with Marc André Audet from Absolunet](https://ubuntu.com/blog/web-application-development-with-juju-charms)
 
 Organised a [bioblitz for work](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiuy-zb4YX4AhVaTWwGHeZMCP44FBAWegQIBxAB&url=https%3A%2F%2Fwww.dragonfly.co.nz%2Fnews%2F2020-12-14-bioblitz.html&usg=AOvVaw12QzSmA2TEnHGqLXwvwDtr).
 
@@ -75,7 +95,15 @@ Podcast interviews
 - [Ubuntu Security Podcast](#todo)
 - [Illegal Argument](#todo)
 
+Mentioned on the orange site
+
+> I'm in a similar situation to the original poster, and I've chosen Rust. Tim McNamara wrote a compelling post making the case for why Rust is a good choice for your 'novelty budget': [https://tim.mcnamara.nz/post/621040767010504704/spend-your-n...](https://tim.mcnamara.nz/post/621040767010504704/spend-your-novelty-budget-on-rust). 
+
 ## 2019
+
+Interviews
+
+- [Parallel Passion](https://www.parallelpassion.com/38)
 
 Talks
 
@@ -83,6 +111,8 @@ Talks
 - "5 Essential Traits" Rust Wellington, July 2019
 
 ## 2018
+
+Started [reviewing papers for JOSS](https://joss.theoj.org/papers/reviewed_by/@timClicks).
 
 Was Co-Chair for the Open Source Stream of the New Zealand ITx Conference.
 
@@ -96,12 +126,13 @@ Got a scoop to NZ Herald. Was [credited for a photo](https://www.nzherald.co.nz/
 
 ## 2015
 
+A tweet of mine went viral and was picked up by [Verge](https://www.theverge.com/2015/7/17/8985699/stanford-neural-networks-image-recognition-google-study/) and [ZME Science](https://www.zmescience.com/research/technology/neural-network-image-describe-042423/)
 
 Co-authored "How Rugby Moved the Mood of New Zealand", published by the Journal of Sport and Human Performance
 
 Mentioned in [Tim Kong's blog](https://www.continue.nz/nepal-open-street-maps-and-contributing/).
 
-An hackathon app that I contributed to made national news.
+A [hackathon app that I contributed to](https://naturehack.confetti.events/) made national news.
 
 - [Young trio cause a buzz with bee app](https://www.nzherald.co.nz/nz/young-trio-cause-a-buzz-with-bee-app/65ZQMF3GXXYUPZORWNTRQ6XF3A/)
 - [Bright ideas brimming at hackathon](https://www.scoop.co.nz/stories/SC1511/S00081/bright-ideas-brimming-at-hackathon.htm)
