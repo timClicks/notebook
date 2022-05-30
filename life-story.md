@@ -20,13 +20,15 @@ Contributed to the ITP Techblog
 - [Tech is a team sport, let's look out for each other](https://techblog.nz/categories/17-Health-IT/2705-Tech-is-a-team-sport-lets-look-out-for-each-other)
 - [Let’s use mandatory record keeping to demonstrate the tech industry’s competence](https://techblog.nz/2682-Lets-use-mandatory-record-keeping-to-demonstrate-the-tech-industrys-competence)
 
-Presented at ResBaz Wellington (Invited speaker).
+Presented at ResBaz Auckland 2021 (Invited speaker).
+
+- [Research computing with the Rust programming language](https://resbaz.auckland.ac.nz/schedule/#session-3174)
 
 Presented at nz.js(con): [It's time to try WebAssembly](https://youtu.be/EX2lQdA5x0E).
 
 Became a LinkedIn Learning Instructor
 
-- Rust Code Challenges Course 
+- [Rust Code Challenges](https://www.linkedin.com/learning/rust-code-challenges)
 
 Published by the ACM
 
@@ -44,9 +46,47 @@ Contributed a piece to [the Spinoff](https://thespinoff.co.nz/politics/02-09-202
 > 
 > https://www.datawrapper.de/_/mMPQ2
 
+Talks
+
+- "How to learn Rust" Rust Linz, June 2021
+- "What is Rust and why is it interesting?" WOSSAT, Apr 2021
+- "Understanding Rust lifetimes: a visual introduction" Kerala Rustaceans, Mar 2021
+
+
+Podcast interviews
+
+- [Building with Rust](https://anchor.fm/building-with-rust/episodes/Tim-McNamara-on-Rust-in-Action-eugoal)
+- [Software Engineering Radio](#todo)
+
 ## 2020
 
 Organised a [bioblitz for work](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiuy-zb4YX4AhVaTWwGHeZMCP44FBAWegQIBxAB&url=https%3A%2F%2Fwww.dragonfly.co.nz%2Fnews%2F2020-12-14-bioblitz.html&usg=AOvVaw12QzSmA2TEnHGqLXwvwDtr).
+
+Talks
+
+- "Rust is easier to learn than you think" live@manning Rust Conference, Sep 2020
+- "How 10 open source projects manage unsafe code" Rusty Days 2020
+- "Introduction to Rust (for people who have never used a compiler)" Linux.conf.au 2020
+
+Podcast interviews
+
+- [The Virtual World](https://anchor.fm/the-virtual-world/episodes/Rust-in-Action---Tim-McNamara-eip8o1)
+- [Are we podcast yet? Episode 5](https://podcast24.co.uk/episodes/are-we-podcast-yet/awpy-05-tim-mcnamara-timclicks-JQID-lPfRa)
+- [Ubuntu Security Podcast](#todo)
+- [Illegal Argument](#todo)
+
+## 2019
+
+Talks
+
+- "Extending Python with WASM" Rust Wellington, Oct 2019
+- "5 Essential Traits" Rust Wellington, July 2019
+
+## 2018
+
+Was Co-Chair for the Open Source Stream of the New Zealand ITx Conference.
+
+Co-wrote research paper "Gender Bias within the New Zealand Mainstream Media’s Reporting of Elite Athletes", presented at MathSport 2018.
 
 ## 2017
 
@@ -55,6 +95,9 @@ Mentioned by Stuff for the [Wellington Gold Awards](https://www.google.com/url?s
 Got a scoop to NZ Herald. Was [credited for a photo](https://www.nzherald.co.nz/nz/wellingtons-iconic-ferns-sculpture-seen-dumped-at-waste-yard/C777NXS6B72RHD3E2HVMD3UXLA/).
 
 ## 2015
+
+
+Co-authored "How Rugby Moved the Mood of New Zealand", published by the Journal of Sport and Human Performance
 
 Mentioned in [Tim Kong's blog](https://www.continue.nz/nepal-open-street-maps-and-contributing/).
 
@@ -72,11 +115,30 @@ Published by RNZ
 - [Picturing a nation's change](https://www.rnz.co.nz/news/the-wireless/372302/picturing-a-nation-s-change)
 - [What's the big deal about metadata?](https://www.rnz.co.nz/news/the-wireless/372064/what-s-the-big-deal-about-metadata)
 
+## 2013
+
+Became New Zealand's first Software Carpentry instructor. Later invited to teach across New Zealand and to a few Australian universities.
+
+Mentioned in the Big Idea
+
+- [Beginners Guide to Data Mashups](https://www.thebigidea.nz/grow/development-resources/127803-beginners-guide-to-data-mashups)
+
 ## 2012
 
-As "spokesperson" for NeSI I was mentioned in national news: [Researchers flock to supercomputer](https://www.rnz.co.nz/news/national/107904/researchers-flock-to-supercomputer).
+Wrote a chapter for _Bad Data Handbook_, published by O’Reilly Media
 
-Cited by the New Zealand Law Commission in its chapter "Proactive release and publication" http://r125.publications.lawcom.govt.nz/chapter+12%3a+proactive+release+and+publication/chapter+12%3A+the+trend+towards+proactive+release+and+open+data (footnote 578).
+Became a member of the Humanitarian OpenStreetMap Team (HOT OSM). 
+
+As "spokesperson" for NeSI I was mentioned in national news
+
+- [Researchers flock to supercomputer](https://www.rnz.co.nz/news/national/107904/researchers-flock-to-supercomputer).
+
+Mentioned on Sciblogs
+
+- [New Zealand high performance computing on the road](https://sciblogs.co.nz/code-for-life/2012/09/03/new-zealand-high-performance-computing-on-the-road/)
+
+Cited by the New Zealand Law Commission's review of the official information legislation.
+See its chapter ["Proactive release and publication", footnote 578](http://r125.publications.lawcom.govt.nz/chapter+12%3a+proactive+release+and+publication/chapter+12%3A+the+trend+towards+proactive+release+and+open+data).
 
 ## 2011
 
@@ -104,13 +166,28 @@ Mentioned by iStart
 
 Mentioned in Manaaki Whenua Landcare Research's report [Christchurch Earthquake Activity Inventory](https://www.landcareresearch.co.nz/uploads/public/researchpubs/ChristchurchEarthquakeActivityInventory.pdf) (p9).
 
+Was the conference director for Kiwi PyCon 2011.
+
 ## 2010
+
 
 Presented at linux.conf.au 2010, "[Sahana Disaster Management System](http://2009.r2.co.nz/20100118/50312.htm)"
 
 Received the [Laurie Cameon Scholarship](https://www.wgtn.ac.nz/sog/about/publications/sog-year-in-review-2010-web.pdf) (p4) 
 
+## 2009
+
+Co-authored the _Open Data Handbook_, Open Knowledge Foundation.
+
 
 ## 2007
 
 Contibuted to the [impact magazine](https://www.civildefence.govt.nz/assets/Uploads/publications/Impact/impact-vol26-july-2007.pdf) (p5).
+
+
+# Re-uses of openly licenced content
+
+Photos
+
+- https://www.forestandbird.org.nz/events/bumblebee-foraging-behaviour 
+- https://www.nzmca.org.nz/trails/waitomo-walkway
