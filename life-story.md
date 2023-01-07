@@ -4,6 +4,23 @@ Coverage of me and my stuff. Might be useful for when I die and someone needs to
 
 ## 2022
 
+Talks
+
+- Swiss Cloud Native Day https://www.youtube.com/watch?v=m87YztCwnvg
+- re:Invent 2022 https://www.youtube.com/watch?v=DHMfRFkhv-w&t=1s (Coverage from DZone https://dzone.com/articles/join-us-for-the-buildonaws-track-at-aws-reinvent-2022)
+- YOW! 2022 Perth, Brisbane, Sydney, Melbourne 
+- ResBaz Aotearoa 2022 "Research computing with Rust" https://resbaz.auckland.ac.nz/schedule/#session-62
+- Rust Linz "Boxes, Heaps and Stacks" https://www.youtube.com/watch?v=DEE1GKMbtgw
+
+Mentioned by [Gerhard Lazu in a interview on ShipIt](https://changelog.com/shipit/75):
+
+> I was at a conference recently, it was the Swiss Cloud Native day in Bern… And there was this speaker, Tim McNamara - now, he’s pretty big on Rust. And I learned a few things about Rust which I didn’t know, and I was genuinely impressed with some of those. He blogs, he writes books, he gave talks, and there’s a talk which is recorded, I will put it in the show notes, from the Swiss Cloud Native day in Bern… And he talks about Rust and why there are certain advantages that only Rust has. And Go is great for the majority of things. But knowing what I know about Erlang and Elixir, and Rustler is what I’m thinking for Rust, that integration specifically… I think WhatsApp was involved with it, because they need, at their scale, certain things. And Erlang is not that great when it comes to computationally-intensive tasks. And that’s when you want something which is better. And C is used quite a bit with Erlang, because they have the same heritage… But that can be a bit awkward when it comes to integrating. It does happen, but you need some very specific knowledge, and usually legacy systems do that.
+>
+> But with the growing popularity of Rust - I mean, shipping in the Linux Kernel itself, that is big. Right? I mean, you can get Rust support in the Linux Kernel… What? I wasn’t expecting that… I think it’s worth checking out. And again, some conversations with Tim, knowing about Rustler… There’s like a lot of hints that Rust is worth exploring, especially at very large scales, where a 10%, a 20% improvement can mean millions of dollars. And that’s when you start seeing the difference, where you say 10%, 20% is not that much different, but at 500,000 users, it makes a big difference. That actually means an extra 100,000. Right? You can do 600,000 for free, with the same resources.
+>
+> And the memory is a very interesting approach in Rust. There’s no garbage collection, there’s none of that. And for like real-time, it makes a difference when real-time is a priority. So I’m just mentioning it, putting it out there, food for thought. Something which I’ll check out.
+
+
 Contributor to the Rustacean Station podcast
 
 - https://rustacean-station.org/episode/071-twir-442/
@@ -16,6 +33,8 @@ Podcast interviews
 Someone posted an article that I wrote to HN and [it got to the first page](https://news.ycombinator.com/item?id=31071690).
 
 ## 2021
+
+My book [is cited](https://spiralscout.com/blog/glossary/rust)
 
 A tweet of mine is picked up by [The New Stack](https://thenewstack.io/this-week-in-programming-github-fights-open-source-dmca-disputes/).
 
