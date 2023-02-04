@@ -2,6 +2,20 @@
 
 Coverage of me and my stuff. Might be useful for when I die and someone needs to find my Internet breadcrumbs.
 
+## 2023
+
+Mentions
+
+- Book of the week in this newsletter https://www.devopsbulletin.com/issues/testing-aws-infrastructure
+
+Interviews
+
+- Syntax "Supper Club × Rust In Action with Tim McNamara" https://syntax.fm/show/571/supper-club-rust-in-action-with-tim-mcnamara
+
+Talks
+
+- 
+
 ## 2022
 
 Talks
