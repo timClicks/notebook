@@ -11,10 +11,11 @@ Mentions
 Interviews
 
 - Syntax "Supper Club × Rust In Action with Tim McNamara" https://syntax.fm/show/571/supper-club-rust-in-action-with-tim-mcnamara
+- ShipIt "Rust efficiencies at AWS scale" https://changelog.com/shipit/89
 
 Talks
 
-- 
+- Rust Nation UK "Spreading Rust to the rest of the company: moving past the proof of concept" https://www.rustnationuk.com/speakers
 
 ## 2022
 
