@@ -15,7 +15,9 @@ Interviews
 
 Talks
 
-- Rust Nation UK "Spreading Rust to the rest of the company: moving past the proof of concept" https://www.rustnationuk.com/speakers
+- Rust Nation UK "Spreading Rust to the rest of the company: moving past the proof of concept" [https://www.rustnationuk.com/speakers](https://www.youtube.com/watch?v=4DLhTPsg8QQ)
+- AWS Summit Sydney 2023 "Build on AWS with Rust"
+- "Level Up Rust", LinkedIn Learning course https://www.linkedin.com/learning/level-up-rust
 
 ## 2022
 
