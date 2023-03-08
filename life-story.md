@@ -7,6 +7,7 @@ Coverage of me and my stuff. Might be useful for when I die and someone needs to
 Mentions
 
 - Book of the week in this newsletter https://www.devopsbulletin.com/issues/testing-aws-infrastructure
+- Book added to the Rust (programming language) page of English Wikipedia
 
 Interviews
 
@@ -16,7 +17,7 @@ Interviews
 Talks
 
 - Rust Nation UK "Spreading Rust to the rest of the company: moving past the proof of concept" [https://www.rustnationuk.com/speakers](https://www.youtube.com/watch?v=4DLhTPsg8QQ)
-- AWS Summit Sydney 2023 "Build on AWS with Rust"
+- AWS Summit Sydney 2023 BUI06 "Build on AWS with Rust"
 - "Level Up Rust", LinkedIn Learning course https://www.linkedin.com/learning/level-up-rust
 
 ## 2022
@@ -28,6 +29,7 @@ Talks
 - YOW! 2022 Perth, Brisbane, Sydney, Melbourne 
 - ResBaz Aotearoa 2022 "Research computing with Rust" https://resbaz.auckland.ac.nz/schedule/#session-62
 - Rust Linz "Boxes, Heaps and Stacks" https://www.youtube.com/watch?v=DEE1GKMbtgw
+- Rust Melbourne "Testing 1. 2. 3." https://www.meetup.com/rust-melbourne/events/290037796
 
 Mentioned by [Gerhard Lazu in a interview on ShipIt](https://changelog.com/shipit/75):
 
