@@ -30,6 +30,7 @@ Talks
 - ResBaz Aotearoa 2022 "Research computing with Rust" https://resbaz.auckland.ac.nz/schedule/#session-62
 - Rust Linz "Boxes, Heaps and Stacks" https://www.youtube.com/watch?v=DEE1GKMbtgw
 - Rust Melbourne "Testing 1. 2. 3." https://www.meetup.com/rust-melbourne/events/290037796
+- Vancouver Rust Meetup "Rust Idioms and gotchas" https://youtu.be/_LdregcVe5k
 
 Mentioned by [Gerhard Lazu in a interview on ShipIt](https://changelog.com/shipit/75):
 
@@ -98,16 +99,18 @@ Contributed a piece to [the Spinoff](https://thespinoff.co.nz/politics/02-09-202
 
 Talks
 
-- ["An Evening with TimClicks"](https://skillsmatter.com/skillscasts/17234-evening-timclicks), Rust London/Skills Matter
-- "How to learn Rust" Rust Linz, June 2021
-- "What is Rust and why is it interesting?" WOSSAT, Apr 2021
-- "Understanding Rust lifetimes: a visual introduction" Kerala Rustaceans, Mar 2021
+- "[An evening with timClicks](https://skillsmatter.com/skillscasts/17234-evening-timclicks)", Rust London/Skills Matter
+- "[How to learn Rust](https://youtu.be/sDtQaO5_SOw)" Rust Linz, June 2021
+- "[What is Rust and why is it interesting?](https://youtu.be/kdv1EBk6Xgc)" WOSSAT, Apr 2021
+- "[It's time to try WebAssembly](https://youtu.be/sDtQaO5_SOw)" js.conf.nz 2021
+- "[Understanding Rust lifetimes: a visual introduction](https://youtu.be/FSU9vZrn19w)" Kerala Rustaceans, Mar 2021
 
 Interviews
 
 - [Building with Rust](https://anchor.fm/building-with-rust/episodes/Tim-McNamara-on-Rust-in-Action-eugoal)
 - [Software Engineering Radio](#todo)
 - [Always Bet on Rust](https://blog.abor.dev/p/timclicks), "Routes to Discovering Rust"
+- [Manning liveVideo](https://livevideo.manning.com/course/545), "Pros and Cons of Python vs Rust" Apr 2021
 
 ## 2020
 
