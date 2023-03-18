@@ -58,9 +58,9 @@ My book [is cited](https://spiralscout.com/blog/glossary/rust)
 
 A tweet of mine is picked up by [The New Stack](https://thenewstack.io/this-week-in-programming-github-fights-open-source-dmca-disputes/).
 
-Published [_Rust in Action_](https://www.manning.com/books/rust-in-action). (It's also available [in Japanese](https://www.shoeisha.co.jp/book/detail/9784798160221))
+Published [_Rust in Action_](https://www.manning.com/books/rust-in-action). (It's also available [in Japanese](https://www.shoeisha.co.jp/book/detail/9784798160221), Korean, Mandarin Chinese, and Russian)
 
-Judge of the New Zealand Open Source Awards.
+Judge of the New Zealand Open Source Awards. https://itbrief.co.nz/story/2021-open-source-awards-celebrate-best-nz-has-to-offer
 
 Contributed to the ITP Techblog
 
