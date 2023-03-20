@@ -8,6 +8,8 @@ Mentions
 
 - Book of the week in this newsletter https://www.devopsbulletin.com/issues/testing-aws-infrastructure
 - Book added to the Rust (programming language) page of English Wikipedia
+- Book added to Sentry's [list of recommended resources](https://web.archive.org/web/20230320072009/https://develop.sentry.dev/rust/)
+- Book cited as reference  for [this course](https://web.archive.org/web/20230320075034/https://www.dhbw.de/fileadmin/user/public/SP/STG/Informatik/Informatik.pdf#page=42)
 
 Interviews
 
