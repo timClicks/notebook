@@ -10,11 +10,13 @@ Mentions
 - Book added to the Rust (programming language) page of English Wikipedia
 - Book added to Sentry's [list of recommended resources](https://web.archive.org/web/20230320072009/https://develop.sentry.dev/rust/)
 - Book cited as reference  for [this course](https://web.archive.org/web/20230320075034/https://www.dhbw.de/fileadmin/user/public/SP/STG/Informatik/Informatik.pdf#page=42)
+- Made national news https://www.nzherald.co.nz/business/aws-staffer-takes-to-social-media-after-amazon-nz-layoffs-ais-possible-role/GV6MHUIY6NAK7DSGR3UFC355ZM/
 
 Interviews
 
 - Syntax "Supper Club × Rust In Action with Tim McNamara" https://syntax.fm/show/571/supper-club-rust-in-action-with-tim-mcnamara
 - ShipIt "Rust efficiencies at AWS scale" https://changelog.com/shipit/89
+- AWS Developers Podcast "Decoding the future of safe and efficient programming with Tim McNamara" https://open.spotify.com/episode/5AsvddooY9a04gKviOC7cB
 
 Talks
 
