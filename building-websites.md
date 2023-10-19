@@ -1,0 +1,2 @@
+- better bootstrap https://getskeleton.com/
+- easy slides https://github.com/gnab/remark/
