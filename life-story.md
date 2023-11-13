@@ -4,6 +4,7 @@ Coverage of me and my stuff. Might be useful for when I die and someone needs to
 
 ## 2023
 
+
 Mentions
 
 - Book of the week in this newsletter https://www.devopsbulletin.com/issues/testing-aws-infrastructure
@@ -23,6 +24,12 @@ Talks
 - Rust Nation UK "Spreading Rust to the rest of the company: moving past the proof of concept" [https://www.rustnationuk.com/speakers](https://www.youtube.com/watch?v=4DLhTPsg8QQ)
 - AWS Summit Sydney 2023 BUI06 "Build on AWS with Rust"
 - "Level Up Rust", LinkedIn Learning course https://www.linkedin.com/learning/level-up-rust
+- "Rust for Java Developers", LinkedIn Learning course
+
+Other stuff
+
+- Became a Rust Foundation fellow
+- Became the Rust Foundation's content person for its education program https://foundation.rust-lang.org/static/minutes/2023-09-12-minutes.pdf 
 
 ## 2022
 
