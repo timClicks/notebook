@@ -2,6 +2,21 @@
 
 Coverage of me and my stuff. Might be useful for when I die and someone needs to find my Internet breadcrumbs.
 
+## 2024
+
+Mentions
+
+- Featured by JetBrains as a [community leader]([https://www.jetbrains.com/rust/](https://web.archive.org/web/20240119193259/https://www.jetbrains.com/rust/))
+- Featured by [CloudShuttle](https://www.linkedin.com/posts/cloud-shuttle_rust-cloudshuttle-dataengineering-activity-7139820005692489728-3woS) (Australian software company) 
+- Video/book cited
+  - https://www.linkedin.com/pulse/exploring-bevy-gizmos-alexander-blood-wmmic
+  - https://www.linkedin.com/posts/matteo-guadrini_im-reviewing-rust-on-my-notes-taken-while-activity-7130575017666330625--nRq
+
+LinkedIn Learning Courses published
+
+- [Rust for Java Developers](https://www.linkedin.com/learning/rust-for-java-developers/)
+- [Design Patterns for Rust](https://www.linkedin.com/learning/design-patterns-for-rust)
+
 ## 2023
 
 
