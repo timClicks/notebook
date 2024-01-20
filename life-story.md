@@ -22,7 +22,6 @@ LinkedIn Learning Courses published
 Major Changes
 
 - Founded Accelerant Limited (https://accelerant.dev/)
-- Lead of the Rust Foundation's training programme https://foundation.rust-lang.org/news/the-rust-foundation-to-develop-training-and-certification-program/
 
 Mentions
 
