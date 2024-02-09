@@ -11,6 +11,14 @@ Tasks that are useful for me.
 $ cargo build --lib
 ```
 
+## Free up disk space
+
+Search for `target` directories and invoke `cargo clean` in their parent.
+
+```console
+find ~ -type d -name target -exec sh -c 'cd {} && cd .. && cargo clean' \
+```
+
 
 ## Build a library create within a workspace
 
@@ -35,6 +43,7 @@ $ RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target x86_6
 ...
     Finished release [optimized] target(s) in 0.00s
 ```
+
 
 # Raw pointers
 
