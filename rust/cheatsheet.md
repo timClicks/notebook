@@ -44,6 +44,13 @@ $ RUSTFLAGS='-C target-feature=+crt-static' cargo build --release --target x86_6
     Finished release [optimized] target(s) in 0.00s
 ```
 
+# Workflow
+
+Speed up tool downloads by using `cargo binstall` rather than `cargo install`. [`cargo-binstall`](https://github.com/cargo-bins/cargo-binstall) installs pre-built binary packages, rather than requiring you to compile everything from source.
+
+```console
+$ cargo install cargo-binstall
+```
 
 # Raw pointers
 
