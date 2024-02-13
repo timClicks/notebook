@@ -55,7 +55,7 @@ Talks
 
 - Swiss Cloud Native Day https://www.youtube.com/watch?v=m87YztCwnvg
 - re:Invent 2022 https://www.youtube.com/watch?v=DHMfRFkhv-w&t=1s (Coverage from DZone https://dzone.com/articles/join-us-for-the-buildonaws-track-at-aws-reinvent-2022)
-- YOW! 2022 Perth, Brisbane, Sydney, Melbourne 
+- YOW! 2022 Perth, Brisbane, [Sydney](https://juliangamble.com/blog/2022/12/12/yow-conference-sydney-2022/), Melbourne 
 - ResBaz Aotearoa 2022 "Research computing with Rust" https://resbaz.auckland.ac.nz/schedule/#session-62
 - Rust Linz "Boxes, Heaps and Stacks" https://www.youtube.com/watch?v=DEE1GKMbtgw
 - Rust Melbourne "Testing 1. 2. 3." https://www.meetup.com/rust-melbourne/events/290037796
