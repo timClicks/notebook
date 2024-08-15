@@ -12,8 +12,20 @@ Major career milestones
 
 Podcast Interviews (as guest)
 
-- [Unlocking Rust's power through mentorship and knowledge spreading, with Tim McNamara](https://web.archive.org/web/20240815234825/https://rustacean-station.org/episode/tim-mcnamara/)
-- [All about Rust with Tim McNamara](https://web.archive.org/web/20240815234753/https://softwarehuddle.substack.com/p/all-about-rust-with-tim-mcnamara)
+[Unlocking Rust's power through mentorship and knowledge spreading, with Tim McNamara](https://web.archive.org/web/20240815234825/https://rustacean-station.org/episode/tim-mcnamara/)
+
+> Tim McNamara, author of Rust in Action and founder at Accelerant, sits down with Marco Otte-Witte.
+>
+> Tim discusses how Rust, despite common perceptions, is relatively easy to learn and how the compiler empowers engineers to avoid common mistakes. The conversation also emphasizes Rust’s growing adoption in companies, its role in addressing long-term maintainability challenges, and its potential to significantly reduce software energy consumption, while highlighting the importance of mentorship to ensure successful integration across organizations.
+
+[All about Rust with Tim McNamara](https://web.archive.org/web/20240815234753/https://softwarehuddle.substack.com/p/all-about-rust-with-tim-mcnamara)
+
+> In today's episode with Tim McNamara, we talk all about Rust. Tim is one of the leading educators in the whole Rust educational space. He wrote the Rust in Action book, which is probably the best Rust book out there. He has a YouTube channel, he taught and did a lot of educational work on Rust at Amazon AWS.
+>
+> We talked about object ownership and object lifetimes and just all these interesting things that Rust has and why is this language loved by so many and why it's continuing to grow.
+>
+> He also gets into what it's like being an independent educator, creator, and some of the difficulties with that, how to get started, and how he deals with doubt.
+  
 
 Podcast Interviews (as interviewer)
 
