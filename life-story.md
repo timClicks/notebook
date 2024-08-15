@@ -12,7 +12,8 @@ Major career milestones
 
 Podcast Interviews (as guest)
 
-- [Unlocking Rust's power through mentorship and knowledge spreading, with Tim McNamara](https://rustacean-station.org/episode/tim-mcnamara/)
+- [Unlocking Rust's power through mentorship and knowledge spreading, with Tim McNamara](https://web.archive.org/web/20240815234825/https://rustacean-station.org/episode/tim-mcnamara/)
+- [All about Rust with Tim McNamara](https://web.archive.org/web/20240815234753/https://softwarehuddle.substack.com/p/all-about-rust-with-tim-mcnamara)
 
 Podcast Interviews (as interviewer)
 
@@ -33,6 +34,7 @@ Mentions
 - Video/book cited
   - https://www.linkedin.com/pulse/exploring-bevy-gizmos-alexander-blood-wmmic
   - https://www.linkedin.com/posts/matteo-guadrini_im-reviewing-rust-on-my-notes-taken-while-activity-7130575017666330625--nRq
+- Made it into a [spammy, vanity listicle]([https://videos.feedspot.com/new_zealand_it_youtube_channels/](https://web.archive.org/web/20240815234042/https://videos.feedspot.com/new_zealand_it_youtube_channels/)), so that's something
 
 LinkedIn Learning Courses published
 
