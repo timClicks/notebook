@@ -2,11 +2,33 @@
 
 Coverage of me and my stuff. Might be useful for when I die and someone needs to find my Internet breadcrumbs.
 
+## 2025
+
+Major career milestones
+
+- [Rust Forge 2025](https://rustforgeconf.com), Conference Director
+
 ## 2024
+
+Podcast Interviews (as guest)
+
+- [Unlocking Rust's power through mentorship and knowledge spreading, with Tim McNamara](https://rustacean-station.org/episode/tim-mcnamara/)
+
+Podcast Interviews (as interviewer)
+
+- [Rob Ede](https://timclicks.dev/podcast/rob-ede/)
+- [Charlie Marsh](https://timclicks.dev/podcast/supercharging-python-tooling-an-interview-with-charlie-marsh/)
+- [Zeeshan Ali Khan](https://timclicks.dev/podcast/systems-software-for-linux-with-rust-interview-with-zeeshan-ali-khan/)
+
+Asked for [comment by the New Stack on DARPA's TRACTOR programme](https://thenewstack.io/can-darpas-tractor-pull-c-to-rust-for-memory-safe-overhaul/).
+
+> “It is a formidable task, and that’s precisely why an agency like DARPA should support it,” Tim McNamara, founder of Accelerant and author of “Rust in Action,” told The New Stack.
+>
+> However, “I’m quite skeptical that the stated aims in the abstract are even possible. How can one preserve the semantics of the original code without preserving its bugs?” he asked. “Still, the worst case is that the software industry gains more information about how to translate old code into memory-safe alternatives. The best case is that we gain a tool that can protect critical infrastructure against digital sabotage.”
 
 Mentions
 
-- Featured by JetBrains as a [community leader]([https://www.jetbrains.com/rust/](https://web.archive.org/web/20240119193259/https://www.jetbrains.com/rust/))
+- Featured by JetBrains as a [community leader](https://web.archive.org/web/20240119193259/https://www.jetbrains.com/rust/)
 - Featured by [CloudShuttle](https://www.linkedin.com/posts/cloud-shuttle_rust-cloudshuttle-dataengineering-activity-7139820005692489728-3woS) (Australian software company) 
 - Video/book cited
   - https://www.linkedin.com/pulse/exploring-bevy-gizmos-alexander-blood-wmmic
@@ -16,6 +38,22 @@ LinkedIn Learning Courses published
 
 - [Rust for Java Developers](https://www.linkedin.com/learning/rust-for-java-developers/)
 - [Design Patterns for Rust](https://www.linkedin.com/learning/design-patterns-for-rust)
+
+Articles
+
+- in [the Spinoff](https://thespinoff.co.nz/authors/tim-mcnamara)
+  - [How much Wellington’s housing panel shrank density, in four maps](https://thespinoff.co.nz/wellington/08-03-2024/how-much-wellingtons-housing-panel-shrank-density-in-four-maps)
+
+Talks/Workshops
+
+- [Unwrapping Unsafe](https://youtu.be/mdaWeql7C3k), Rust Nation UK
+- [4 levels of error handling](https://youtu.be/hQWZGOuDYTE), Rust Nation UK
+- Rust in Enterprise workshop, Rust Nation UK
+- [Serverless Rust Workshop](https://web.archive.org/web/20240815232545/https://anz.serverlessdays.io/sydney/), ServerlessDays ANZ - Sydney
+- [Serverless Rust Workshop](https://web.archive.org/web/20240815232656/https://anz.serverlessdays.io/auckland/), ServerlessDays ANZ - Auckland
+- [import rust](https://talks.kiwipycon.nz/kiwi-pycon-2024/talk/8WN3FK/), Kiwi PyCon
+- Stronger Software with Stronger Tools, Rust Lab Italy (keynote)
+- The best of Rust, GOTO Copenhagen
 
 ## 2023
 
