@@ -6,6 +6,7 @@ Coverage of me and my stuff. Might be useful for when I die and someone needs to
 
 Major career milestones
 
+- [RustASIA 2025](https://rustasiaconf.com) keynote speaker
 - [Rust Forge 2025](https://rustforgeconf.com), Conference Director
 
 ## 2024
