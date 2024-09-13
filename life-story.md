@@ -68,7 +68,7 @@ Talks/Workshops
 - [Serverless Rust Workshop](https://web.archive.org/web/20240815232656/https://anz.serverlessdays.io/auckland/), ServerlessDays ANZ - Auckland
 - [import rust](https://talks.kiwipycon.nz/kiwi-pycon-2024/talk/8WN3FK/), Kiwi PyCon
 - Stronger Software with Stronger Tools, Rust Lab Italy (keynote)
-- The best of Rust, GOTO Copenhagen
+- [What's up with Rust?](https://gotocph.com/2024/sessions/3315/whats-up-with-rust), GOTO Copenhagen
 
 ## 2023
 
