@@ -7,3 +7,5 @@
 
 - [Solo AI](https://soloist.ai/) by Mozilla
   A business website builder for solo-preneurs. 
+- [ElevenLabs](https://elevenlabs.io/) produces AI voices.
+
