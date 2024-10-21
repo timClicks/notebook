@@ -9,3 +9,9 @@ SLIDES
 MORE IDEAS
 
 - https://twitter.com/timClicks/status/1742065191658078237
+
+DESIGN EXAMPLES
+
+- Minimalism
+  - https://nat.org/
+  - https://rememberlenny.com/
