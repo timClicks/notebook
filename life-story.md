@@ -58,6 +58,8 @@ Articles
 
 - in [the Spinoff](https://thespinoff.co.nz/authors/tim-mcnamara)
   - [How much Wellington’s housing panel shrank density, in four maps](https://thespinoff.co.nz/wellington/08-03-2024/how-much-wellingtons-housing-panel-shrank-density-in-four-maps)
+- in interest.co.nz
+  - [The government is buying the shiny, expensive AI toys rather than the things that work, Tim McNamara says](https://www.interest.co.nz/technology/131138/government-buying-shiny-expensive-ai-toys-rather-things-work-tim-mcnamara-says)
 
 Talks/Workshops
 
